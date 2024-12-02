@@ -1,3 +1,5 @@
+## Segmenter des clients d'un site d'e-commerce
+
 Vous êtes consultant pour Olist, un site e-commerce brésilien.
 
 Les équipes marketing ont besoin de segmenter leurs clients pour optimiser les campagnes de communication.
