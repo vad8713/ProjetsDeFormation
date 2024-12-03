@@ -1,5 +1,5 @@
-# openClassroomsProjects
-Projets professionnels effectués pendant la formation :
+# Projets professionnels
+Projets effectués pendant la formation d'Ingénieur Machine Learning chez openClassrooms:
 
 [Concevoir une application au service de la santé publique](ApplicationSantePublique/README.md)
 
